@@ -23,8 +23,8 @@ import dashscope
 from scripts.optimized_rule_scorer import OptimizedRuleScorer
 from scripts.paragraph_scorer import ParagraphScorer
 
-# 配置API密钥（从现有脚本读取）
-API_Key_QW = "sk-a2966f4e37134351904851679884cb67"
+# 配置API密钥
+API_Key_QW = ""
 
 def clean_markdown(text):
     """去除Markdown格式符号"""

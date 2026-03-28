@@ -17,7 +17,7 @@ from datetime import datetime
 from emotion_analyzer import EmotionAnalyzer
 
 # 配置API
-API_Key_QW = "sk-a2966f4e37134351904851679884cb67"
+API_Key_QW = ""
 
 def clean_markdown(text):
     """去除 Markdown 格式符号"""
